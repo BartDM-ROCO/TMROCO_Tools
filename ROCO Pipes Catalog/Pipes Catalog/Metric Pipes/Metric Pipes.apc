@@ -245,21 +245,5 @@
 	</Chapter>
 	<Chapter name="Rectangular Pipes">Rectangular Pipes
 		<Desc>Rectangular Pipes</Desc>
-		<Part name="AeccRectangularConcretePipe_Metric" id="E0156B07-4726-443F-88E5-F725B7B32298">
-			<Desc>Concrete Box Culvert SI</Desc>
-			<Images>
-				<Image>
-					<URL xlink:title="Concrete Box Culvert SI" xlink:href="Rectangular Pipes\AeccRectangularConcretePipe_Metric.bmp" xlink:show="embed" xlink:actuate="onLoad"/>
-				</Image>
-			</Images>
-			<TableRef>
-				<URL xlink:href="Rectangular Pipes\AeccRectangularConcretePipe_Metric.xml"/>
-			</TableRef>
-			<Extrinsics>
-				<Extrinsic name="AeccPartSearchAttribList">
-					<AeccPartSearchAttribList domain="Pipe_Domain" part_type="Pipe" part_subtype="Undefined" part_shape="SweptShape_Rectangular" placeholder="False" hidepart="False"/>
-				</Extrinsic>
-			</Extrinsics>
-		</Part>
-	</Chapter>
+		<Part name="AeccRectangularConcretePipe_Metric" id="E0156B07-4726-443F-88E5-F725B7B32298"><Desc>Concrete Box Culvert SI</Desc><Images><Image><URL xlink:title="Concrete Box Culvert SI" xlink:href="Rectangular Pipes\AeccRectangularConcretePipe_Metric.bmp" xlink:show="embed" xlink:actuate="onLoad"/></Image></Images><TableRef><URL xlink:href="Rectangular Pipes\AeccRectangularConcretePipe_Metric.xml"/></TableRef><Extrinsics><Extrinsic name="AeccPartSearchAttribList"><AeccPartSearchAttribList domain="Pipe_Domain" part_type="Pipe" part_subtype="Undefined" part_shape="SweptShape_Rectangular" placeholder="False" hidepart="False"/></Extrinsic></Extrinsics></Part></Chapter>
 </pXML>

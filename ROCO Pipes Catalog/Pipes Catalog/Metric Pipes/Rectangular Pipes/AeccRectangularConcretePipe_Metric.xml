@@ -110,6 +110,8 @@
 		<RowUnique id="r98">2E403BF7-0C35-46de-A18E-808980CA10EB</RowUnique>
 		<RowUnique id="r99">F2633C73-8214-43bf-8EB7-935FC6069BA7</RowUnique>
 		<RowUnique id="r100">EB740E26-ED6B-4900-9130-46B85DC16F06</RowUnique>
+		<RowUnique id="r101">693FBE74-1E69-4506-8C30-5680DA90D7EB</RowUnique>
+		<RowUnique id="r102">4CAB3D95-F626-44E0-8D83-93930058C40C</RowUnique>
 	</ColumnUnique>
 	<Column desc="Inner Pipe Width" dataType="float" unit="mm" name="PIW" id="C1" visible="1" context="PipeInnerWidth" index="0">
 		<Row id="r0">1000.0000</Row>
@@ -213,6 +215,8 @@
 		<Row id="r98">3600.0000</Row>
 		<Row id="r99">4000.0000</Row>
 		<Row id="r100">4000.0000</Row>
+		<Row id="r101">3200.0000</Row>
+		<Row id="r102">3000.0000</Row>
 	</Column>
 	<Column desc="Inner Pipe Height" dataType="float" unit="mm" name="PIH" id="C2" visible="1" context="PipeInnerHeight" index="0">
 		<Row id="r0">500.0000</Row>
@@ -316,6 +320,8 @@
 		<Row id="r98">2100.0000</Row>
 		<Row id="r99">3500.0000</Row>
 		<Row id="r100">4000.0000</Row>
+		<Row id="r101">2000.0000</Row>
+		<Row id="r102">1250.0000</Row>
 	</Column>
 	<Column desc="Wall Thickness" dataType="float" unit="mm" name="WTh" id="C3" visible="1" context="WallThickness" index="0">
 		<Row id="r0">100.0000</Row>
@@ -419,6 +425,8 @@
 		<Row id="r98">350.0000</Row>
 		<Row id="r99">350.0000</Row>
 		<Row id="r100">350.0000</Row>
+		<Row id="r101">250.0000</Row>
+		<Row id="r102">250.0000</Row>
 	</Column>
 	<ColumnConst desc="Part Domain" dataType="string" unit="" name="PDom" id="CC0" visible="0" context="Catalog_Domain" index="0">Pipe_Domain</ColumnConst>
 	<ColumnConst desc="Part Type" dataType="string" unit="" name="PTyp" id="CC1" visible="1" context="Catalog_PartType" index="0">Pipe</ColumnConst>
