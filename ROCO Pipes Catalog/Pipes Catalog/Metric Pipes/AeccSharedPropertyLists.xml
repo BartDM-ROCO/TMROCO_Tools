@@ -13,5 +13,6 @@
 		<Item id="i1">Corrugated Steel</Item>
 		<Item id="i2">Ductile Iron</Item>
 		<Item id="i3">PVC</Item>
+		<Item id="i4">Undefined Material</Item>
 	</ColumnConstList>
 </LandPart>
